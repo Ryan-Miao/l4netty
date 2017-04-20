@@ -1,3 +1,4 @@
 rootProject.name = 'l4netty'
-include 'hello'
+include 'hello-netty5'
+include 'getting-started'
 
